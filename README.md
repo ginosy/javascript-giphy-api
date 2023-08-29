@@ -1,5 +1,7 @@
 # javascript-giphy-api
+GitHub repository: https://ginosy.github.io/javascript-giphy-api/
 
+GitHub page: https://github.com/ginosy
 
 # Overview/Description
 
