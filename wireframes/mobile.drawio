@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-08-29T03:46:20.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="kxR-Vn306nJYoc2vufjY" version="21.6.9" type="device">
+  <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
+    <mxGraphModel dx="1981" dy="2858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WsRZixG4fA7pFhA6oEje-15" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;fillColor=#ffffff;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-1690" width="410" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="WsRZixG4fA7pFhA6oEje-16" value="LOGO" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-1550" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WsRZixG4fA7pFhA6oEje-17" value="HOME" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="180" y="-1550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsRZixG4fA7pFhA6oEje-18" value="CATEGORIES" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="290" y="-1550" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsRZixG4fA7pFhA6oEje-19" value="TRENDING" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="180" y="-1510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsRZixG4fA7pFhA6oEje-20" value="POPULAR" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="290" y="-1510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsRZixG4fA7pFhA6oEje-21" value="JavaScript Giphy API" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="-1450" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsRZixG4fA7pFhA6oEje-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144.5" y="-1420" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WsRZixG4fA7pFhA6oEje-23" value="GIPHY!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="244.5" y="-1420" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WsRZixG4fA7pFhA6oEje-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="167.25" y="-1370" width="115.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WsRZixG4fA7pFhA6oEje-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="167.25" y="-1230" width="115.5" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
